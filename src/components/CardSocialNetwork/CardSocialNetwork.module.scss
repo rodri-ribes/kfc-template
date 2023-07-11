@@ -1,0 +1,123 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 250px;
+    background-color: white;
+    border-radius: 3px;
+    padding: 1rem;
+    box-shadow: 0px 5px 15px black;
+    .container__username{
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+
+        .container__username_svg{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 45px;
+            height: 45px;
+            border-radius: 50px;
+            background-color: rgb(125, 125, 227);
+
+            svg{
+                width: 25px;
+                color: white;
+            }
+        }
+
+        p{
+            color: black;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 1rem;
+        }
+
+    }
+
+    .container__content{
+        
+        img{
+            width: 100px;
+        }
+    }
+
+
+    &:nth-child(1), &:nth-child(2){
+        width: 46%;
+        .container__username{
+            .container__username_svg{
+                background-color: #21aff6;
+                
+            }
+        }
+    }
+
+    &:nth-child(1){
+        margin-right: 1rem;
+    }
+
+
+    &:nth-child(3), &:nth-child(4), &:nth-child(5){
+        width: 30%;
+        margin-top: 2rem;
+    }
+
+    &:nth-child(3), &:nth-child(4){
+        margin-right: 1rem;
+    }
+
+    &:nth-child(3){
+        
+        .container__username{
+            .container__username_svg{
+                background-color: red;
+            }
+        }
+
+        .container__content{
+            position: relative;
+            margin-top: 1rem;
+            img{
+                width: 100%;
+            }
+
+            p{
+                position: absolute;
+                background-color: rgba(0, 0, 0, 0.500);
+                bottom: 0;
+                color: white;
+                padding: .5rem;
+            }
+        }
+    }
+
+    &:nth-child(4), &:nth-child(5){
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+}
+
+
+@media screen and (max-width: 968px){
+    .container{
+        width: 100%;
+
+        &:nth-child(1), &:nth-child(2), &:nth-child(3), &:nth-child(4), &:nth-child(5){
+            width: 100%;
+            margin: 0;
+            margin-bottom: 2rem;
+
+            .container__content{
+                p{
+                    width: 100%;
+                    padding: 1rem;
+                }
+            }
+        }
+    }
+}
