@@ -10,6 +10,10 @@ import 'swiper/scss';
 import 'swiper/scss/navigation';
 import 'swiper/scss/pagination';
 import 'swiper/scss/autoplay';
+
+import './CarouselMenu.scss'
+
+
 import { useState } from 'react';
 
 export default function CarouselMenu() {
@@ -20,7 +24,7 @@ export default function CarouselMenu() {
         <Swiper
             className={style.container}
             modules={[Navigation, Pagination, A11y, Autoplay]}
-            spaceBetween={10}
+            spaceBetween={0}
             slidesPerView={window.innerWidth < 968 ? 3 : 8}
             navigation={true}
             pagination={false}

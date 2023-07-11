@@ -73,14 +73,15 @@
 @media screen and (max-width: 968px){
     .container{
         width: 100%;
-        height: auto;
+        height: 72vh;
         .container__wrapper{
             width: 100%;
             flex-direction: column-reverse;
+            align-items: flex-start;
 
             .container__wrapper__img{
                 display: flex;
-                justify-content: center;
+                justify-content: flex-start;
                 width: 100%;
                 img{
                     width: 65%;
@@ -91,9 +92,10 @@
             .container__wrapper__content{
                 align-items: flex-start;
                 margin-left: 1rem;
-
+                width: 100%;
                 h3{
                     font-size: 3rem;
+                    width: 100%;
                 }
 
                 button{

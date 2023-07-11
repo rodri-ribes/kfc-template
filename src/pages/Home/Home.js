@@ -78,6 +78,7 @@ export default function Home() {
                                             name={p.name}
                                             img={p.img}
                                             content={p.content}
+                                            key={i}
                                         />
                                     )
                                 })
@@ -86,7 +87,7 @@ export default function Home() {
                     </div>
                     <div className={style.container__socialNetworks__wrapper_video}>
                         <h4>VIDEOS</h4>
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/xxZIkXflxFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/xxZIkXflxFk" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
                     </div>
                 </div>
             </div>

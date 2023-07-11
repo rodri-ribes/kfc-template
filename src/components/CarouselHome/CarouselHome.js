@@ -11,6 +11,8 @@ import 'swiper/scss/navigation';
 import 'swiper/scss/pagination';
 import 'swiper/scss/autoplay';
 
+import './CarouselHome.scss'
+
 export default function CarouselHome() {
     return (
         <Swiper
@@ -18,7 +20,7 @@ export default function CarouselHome() {
             modules={[Navigation, Pagination, A11y, Autoplay]}
             spaceBetween={0}
             slidesPerView={1}
-            navigation={true}
+            navigation={false}
             pagination={true}
             scrollbar={{ draggable: true }}
             autoplay={{
