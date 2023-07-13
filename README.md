@@ -3,7 +3,7 @@
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 3. [Screenshots](#Screenshots)
-4. [Deploy](https://projects-ribes.netlify.app/)
+4. [Deploy](https://kfc-template.vercel.app/)
 
 ### General Info
 ***
@@ -28,10 +28,10 @@ $ npm start
 ```
 ### Screenshots
 ***
-![image](./public/img/slider/templates/kfc/kfc-template-1.jpg)
-![image](./public/img/slider/templates/kfc/kfc-template-2.jpg)
-![image](./public/img/slider/templates/kfc/kfc-template-3.jpg)
-![image](./public/img/slider/templates/kfc/kfc-template-4.jpg)
-![image](./public/img/slider/templates/kfc/kfc-template-5.jpg)
-![image](./public/img/slider/templates/kfc/kfc-template-6.jpg)
-***/kfc-template-1.jpg
+![image](./public/img/screenshots/kfc-template-1.jpg)
+![image](./public/img/screenshots/kfc-template-2.jpg)
+![image](./public/img/screenshots/kfc-template-3.jpg)
+![image](./public/img/screenshots/kfc-template-4.jpg)
+![image](./public/img/screenshots/kfc-template-5.jpg)
+![image](./public/img/screenshots/kfc-template-6.jpg)
+***
