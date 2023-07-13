@@ -8,14 +8,15 @@
 ### General Info
 ***
 
-Create a template of one of the fast food chains, KFC. I did it to demonstrate what I can design from an image of a web page.
+It is a template of one of the fast food chains, kfc. I did it to demonstrate what I can design from an image of a web page.
 
-Cree una plantilla de una de las cadenas de comida rapida, kfc. La realice para demostrar lo que puedo diseñar a partir de una imagen de una pagina web.
+Es una plantilla de una de las cadenas de comida rapida, kfc. La realice para demostrar lo que puedo diseñar a partir de una imagen de una pagina web.
 
 ## Technologies
 ***
 A list of technologies used within the project:
 * React: Version 18.2.0
+* SCSS: Version 1.63.3
 
 ## Installation
 ***
