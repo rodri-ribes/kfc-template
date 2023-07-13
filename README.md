@@ -34,5 +34,4 @@ $ npm start
 ![image](./public/img/screenshots/kfc-template-3.jpg)
 ![image](./public/img/screenshots/kfc-template-4.jpg)
 ![image](./public/img/screenshots/kfc-template-5.jpg)
-![image](./public/img/screenshots/kfc-template-6.jpg)
 ***
