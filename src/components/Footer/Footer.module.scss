@@ -128,7 +128,7 @@
 @media screen and (max-width: 968px){
     .container{
         width: 100%;
-        height: auto;
+        height: 60vh;
         margin: 0 auto;
         padding: 0rem;
     
@@ -139,7 +139,7 @@
             align-items: flex-start;
             background-color: red;
             width: 100%;
-            height: auto;
+            height: 15vh;
             padding: 1rem;
     
             .container__footer__oneSection__logo{
@@ -183,7 +183,7 @@
     
         .container__footer_twoSection{
             width: 100%;
-            height: auto;
+            height: 45vh;
             position: relative;
             .container__footer_twoSection__wrapper{
                 width: 100%;
@@ -191,7 +191,7 @@
                 flex-direction: column;
                 justify-content: space-between;
                 align-items: center;
-                padding: 1rem;
+                padding: 0 1rem;
 
                 .container__footer_twoSection__wrapper__copyAndHiper{
                     display: flex;
@@ -247,12 +247,12 @@
             .container__footer_twoSection__wrapper__img{
                 display: flex;
                 justify-content: center;
-                align-items: flex-end;
+                align-items: center;
                 width: 100%;
                 position: absolute;
                 z-index: 0;
                 img{
-                    width: 80%;
+                    width: 70%;
                 }
             }
         }

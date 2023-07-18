@@ -14,7 +14,7 @@ export default function NavBar() {
         <div className={style.container}>
             <div className={style.container__wrapper}>
                 <div className={style.container__wrapper__logo}>
-                    <img src='./img/kfc_logo.png' alt='logo' />
+                    <img src='./img/kfc_logo.webp' alt='logo' />
                 </div>
 
                 <div className={style.container__wrapper__menu} style={{ left: `${clickMobile ? "0" : "-100%"}` }}>

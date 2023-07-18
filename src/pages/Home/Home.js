@@ -37,7 +37,7 @@ export default function Home() {
             </div>
             <div className={style.container__menu}>
                 <div className={style.container__menu_img}>
-                    <img src='./img/menu.png' alt="menu" />
+                    <img src='./img/menu.webp' alt="menu" />
                 </div>
                 <div className={style.container__menu_store}>
                     <h3>Now With Your Favorite <br />KFC Mobile Application <br />In Your Pocket</h3>

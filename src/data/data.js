@@ -2,56 +2,56 @@ export const listHome = [
     {
         title: "BARGAIN \nBUCKET MENU \nCAMPAIGN",
         description: "In sint occaecat proident ullamco minim velit officia eiusmod et pariatur esse duis nulla veniam.",
-        img: "img/CarouselHome/menuone.png"
+        img: "img/CarouselHome/menuone.webp"
     },
     {
         title: "Your \nFavorite \nBox",
         description: "In sint occaecat proident ullamco minim velit officia eiusmod et pariatur esse duis nulla veniam.",
-        img: "img/CarouselHome/menutwo.png"
+        img: "img/CarouselHome/menutwo.webp"
     },
     {
         title: "Mighty Twist Deal",
         description: "In sint occaecat proident ullamco minim velit officia eiusmod et pariatur esse duis nulla veniam.",
-        img: "img/CarouselHome/menuthree.png"
+        img: "img/CarouselHome/menuthree.webp"
     },
 ]
 
 export const listMenu = [
     {
         title: "KIDS MEALS",
-        img: "img/CarouselMenu/kidmenu.jpg"
+        img: "img/CarouselMenu/kidmenu.webp"
     },
     {
         title: "SINGLE PRODUCTS",
-        img: "img/CarouselMenu/singleproducts.jpg"
+        img: "img/CarouselMenu/singleproducts.webp"
     },
     {
         title: "BOX MEALS",
-        img: "img/CarouselMenu/boxmeal.jpg"
+        img: "img/CarouselMenu/boxmeal.webp"
     },
     {
         title: "MEALS",
-        img: "img/CarouselMenu/meals.jpg"
+        img: "img/CarouselMenu/meals.webp"
     },
     {
         title: "BUCKETS",
-        img: "img/CarouselMenu/buckets.jpg"
+        img: "img/CarouselMenu/buckets.webp"
     },
     {
         title: "CHICKEN",
-        img: "img/CarouselMenu/chicken.jpg"
+        img: "img/CarouselMenu/chicken.webp"
     },
     {
         title: "SAUCES",
-        img: "img/CarouselMenu/sauces.jpg"
+        img: "img/CarouselMenu/sauces.webp"
     },
     {
         title: "DRINKS",
-        img: "img/CarouselMenu/drinks.jpg"
+        img: "img/CarouselMenu/drinks.webp"
     },
     {
         title: "SIDES",
-        img: "img/CarouselMenu/sides.jpg"
+        img: "img/CarouselMenu/sides.webp"
     },
 
 ]
@@ -63,27 +63,27 @@ export const options = [
         title: "ANY DAY \nOFFERS",
         content: "Deserunt nostrud pariatur nisi.",
         price: "12.90 TL",
-        img: "./img/Options/anydayoffers.png"
+        img: "./img/Options/anydayoffers.webp"
     },
     {
         title: "OTHER \nFLAVORS",
         content: "Deserunt nostrud pariatur nisi.",
         price: "3.90 TL",
-        img: "./img/Options/other-flavors.png"
+        img: "./img/Options/other-flavors.webp"
 
     },
     {
         title: "FIND A KFC \nSTORE \nNEAR YOU",
-        img: "./img/Options/map.png"
+        img: "./img/Options/map.webp"
     },
     {
         title: "CRISPY AND \nFRESH CHICKEN \nMASTER CHEF",
-        img: "./img/Options/chef.png",
+        img: "./img/Options/chef.webp",
         button: "%100 MEAL CHICKEN"
     },
     {
         title: "DO YOU WANT \nTO BE A HOPE?",
-        img: "./img/Options/add-hope.png",
+        img: "./img/Options/add-hope.webp",
         button: "SEE MORE"
 
     },
@@ -104,7 +104,7 @@ export const socialPosts = [
         social: "instagram",
         name: "lorem ipsum",
         content: "Ad aliqua qui dolor laboris.",
-        img: "./img/pollo-plato.png"
+        img: "./img/pollo-plato.webp"
     },
     {
         social: "facebook",
