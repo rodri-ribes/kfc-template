@@ -29,9 +29,9 @@ $ npm start
 ```
 ### Screenshots
 ***
-![image](./public/img/screenshots/kfc-template-1.jpg)
-![image](./public/img/screenshots/kfc-template-2.jpg)
-![image](./public/img/screenshots/kfc-template-3.jpg)
-![image](./public/img/screenshots/kfc-template-4.jpg)
-![image](./public/img/screenshots/kfc-template-5.jpg)
+![image](./public/img/screenshots/kfc-template-1.webp)
+![image](./public/img/screenshots/kfc-template-2.webp)
+![image](./public/img/screenshots/kfc-template-3.webp)
+![image](./public/img/screenshots/kfc-template-4.webp)
+![image](./public/img/screenshots/kfc-template-5.webp)
 ***
